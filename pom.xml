@@ -8,7 +8,7 @@
 		<version>3.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ibf2022.batch2.paf</groupId>
+	<groupId>IBF</groupId>
 	<artifactId>serverstub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>serverstub</name>
@@ -53,7 +53,6 @@
 			<version>8.0.32</version>
 		</dependency>
 	</dependencies>
-​
 	<build>
 		<plugins>
 			<plugin>
@@ -62,5 +61,4 @@
 			</plugin>
 		</plugins>
 	</build>
-​
 </project>

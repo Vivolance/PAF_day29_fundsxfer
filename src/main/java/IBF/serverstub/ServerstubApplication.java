@@ -1,4 +1,4 @@
-package ibf2022.batch2.paf.serverstub;
+package IBF.serverstub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
